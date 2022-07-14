@@ -1,1 +1,1 @@
-Followed the tutorial from <a src = https://levelup.gitconnected.com/how-to-build-a-spotify-player-with-react-in-15-minutes-7e01991bc4b6>this blog post</a> by Joe Karlsson. This website is mainly for fun!
+Followed the tutorial from <a src = https://levelup.gitconnected.com/how-to-build-a-spotify-player-with-react-in-15-minutes-7e01991bc4b6>this blog post</a> by Joe Karlsson. This website is mainly for fun! Created by Masato Nandate!
